@@ -1,0 +1,12 @@
+body
+{
+background-color:#4f6b69;
+}
+.col-3
+{
+width:25%;
+}
+.card-img-top{
+width: 280px;
+height: 300px;
+}
